@@ -1,5 +1,5 @@
 {
-  "name": "jwt",
+  "name": "scripts",
   "version": "1.0.0",
   "description": "This folder contains examples of Json Web Tokens (JWTs).",
   "main": "index.js",

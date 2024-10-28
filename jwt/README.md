@@ -14,3 +14,9 @@ node index.js
 
 ## Server example
 
+```bash
+cd server
+node index.js
+```
+
+The command above starts the server. Use Postman to create requests.
