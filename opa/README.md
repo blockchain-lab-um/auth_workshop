@@ -8,6 +8,8 @@ Website: <https://www.openpolicyagent.org/>
 
 You can find examples in the [examples](./examples/).
 
+You can try out the example in [The Rego Playground](https://play.openpolicyagent.org/).
+
 ## HTTP APIs examples
 
 ```bash

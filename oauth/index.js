@@ -28,5 +28,5 @@ const server = app.listen(port, function () {
 // ----------------- EXERCISE -----------------
 
 // Expand the server so it supports multiple users.
-// Separate the server into two servers - authorization server and resource server.
+// Separate the server into two services - authorization server and resource server.
 // Store the client id and secret in a more secure way.

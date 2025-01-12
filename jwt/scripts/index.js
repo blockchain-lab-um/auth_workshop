@@ -95,5 +95,5 @@ console.log("------------------------------------");
 // ----------------- EXERCISE -----------------
 
 // Create a JWT token:
-// - Use the ECDSA key (elliptic curve) to sign the token, use OpenSSL
-// - Set the folloowing properties: expiration date, not before, audience, and two custom claims
+// - Use the ECDSA key (elliptic curve) to sign the token (use OpenSSL to generate the keys)
+// - Set the following properties to the JWT: expiration date, not before, audience, and two custom claims

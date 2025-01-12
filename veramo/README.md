@@ -30,6 +30,6 @@ yarn tsx ./scripts/verify-credential.ts
 
 ## Exercise
 
-Add DID key provider and create did:key identifier
+- Add DID key provider and create did:key identifier
 
-Add JSON-lD credential provider and create JSON-LD verifiable credential
+- Add JSON-LD credential provider and create JSON-LD verifiable credential
