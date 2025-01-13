@@ -9,6 +9,8 @@ jwt.io: <https://jwt.io/>
 
 ```bash
 cd scripts
+openssl genrsa -out rsa-private.pem 2048
+openssl rsa -in rsa-private.pem -outform PEM -pubout -out rsa-public-key.pem
 node index.js
 ```
 
