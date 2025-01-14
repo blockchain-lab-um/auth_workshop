@@ -57,3 +57,7 @@ http.createServer(app)
     .listen(port, () => {
         console.log(`Listening on ${config.baseURL}`);
     });
+
+// ----------------- EXERCISE -----------------
+
+// Create Auth0 account and configure the application to use your Auth0 app for authentication.
