@@ -125,3 +125,4 @@ const server = app.listen(port, function () {
 
 // Expand the server so it supports multiple users.
 // Be careful that the endpoint /users/me returns the data of the user that is logged in (each user must have different JWT as well).
+// Fix logout endpoint (add callback function).

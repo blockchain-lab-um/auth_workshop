@@ -9,8 +9,12 @@ jwt.io: <https://jwt.io/>
 
 ```bash
 cd scripts
+
+npm install # install dependencies
+
 openssl genrsa -out rsa-private.pem 2048
 openssl rsa -in rsa-private.pem -outform PEM -pubout -out rsa-public-key.pem
+
 node index.js
 ```
 
@@ -18,6 +22,9 @@ node index.js
 
 ```bash
 cd server
+
+npm install # install deps
+
 node index.js
 ```
 
