@@ -14,6 +14,8 @@ You need to add:
 ## Server example
 
 ```bash
+npm install # install deps
+
 node index.js
 ```
 

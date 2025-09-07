@@ -1,2 +1,5 @@
 node_modules
+jwt/scripts/rsa-private.pem
+jwt/scripts/rsa-public-key.pem
 opa/opa
+veramo/database.sqlite

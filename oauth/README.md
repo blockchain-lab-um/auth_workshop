@@ -7,6 +7,8 @@ Standard: <https://oauth.net/2/>
 ## Server example
 
 ```bash
+npm install # install deps
+
 node index.js
 ```
 
